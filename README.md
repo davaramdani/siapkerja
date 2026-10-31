@@ -132,4 +132,3 @@ Tampilan ponsel tersedia pada [screenshot mobile](docs/screenshots/siapkerja-mob
 | API key atau model ditolak | Periksa key dan akses model pada akun Google AI Studio, lalu sesuaikan `GEMINI_MODEL`. |
 | Batas penggunaan API tercapai | Tunggu sampai kuota tersedia atau gunakan mode demo untuk mencoba antarmuka. |
 
-Jawaban untuk form, langkah publikasi GitHub, dan kebutuhan screenshot tersedia di [panduan pengumpulan](docs/PENGUMPULAN.md).
