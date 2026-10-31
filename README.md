@@ -6,7 +6,6 @@ Project ini menggunakan Gemini API melalui backend Node.js dan Express, dengan H
 
 ![Tampilan desktop SiapKerja dengan umpan balik Gemini dan pertanyaan interview lanjutan](docs/screenshots/siapkerja-desktop.jpg)
 
-Screenshot memperlihatkan latihan dengan Gemini API sungguhan. Panduan dan lampiran pengumpulan tersedia di [docs/PENGUMPULAN.md](docs/PENGUMPULAN.md).
 
 ## Fitur
 
